@@ -171,7 +171,7 @@ class NewAgent(Agent):
 ### تعديل إعدادات Gemini
 ```python
 # في config.py
-GEMINI_MODEL = "gemini-pro"
+GEMINI_MODEL = "Gemini-2.0-flash"
 GEMINI_MAX_TOKENS = 8192
 GEMINI_TEMPERATURE = 0.7
 ```
